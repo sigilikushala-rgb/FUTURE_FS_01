@@ -5,10 +5,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css">
-  <title> S.KUSHALA | Full Stack Web Developer</title>
+  <title> S.KUSHALA | Full Stack Web Developer </title>
 
   <!-- SEO Meta -->
-  <meta name="description" content="Personal portfolio website showcasing projects, skills, and experience of a Full Stack Web Developer Intern." />
+  <meta name="S.Kushala" content="Personal portfolio website showcasing projects, skills, and experience of a Full Stack Web Developer Intern." />
 
   <link rel="stylesheet" href="css/style.css" />
 </head>
