@@ -46,7 +46,7 @@
       HTML, CSS, JavaScript, and backend fundamentals. I enjoy building real-world
       projects and continuously improving my skills.
     </p>
-    <p><strong>Education:</strong> B.Tech / B.Sc / Diploma (Your Course)</p>
+    <p><strong>Education:</strong> B.Tech (Computer Science and Engineering)</p>
     <p><strong>Career Goal:</strong> To become a professional Full Stack Developer.</p>
   </section>
 
@@ -57,8 +57,7 @@
       <div class="skill-card">HTML</div>
       <div class="skill-card">CSS</div>
       <div class="skill-card">JavaScript</div>
-      <div class="skill-card">Node.js</div>
-      <div class="skill-card">Git & GitHub</div>
+      <div class="skill-card">GitHub</div>
       <div class="skill-card">VS Code</div>
     </div>
   </section>
@@ -90,7 +89,7 @@
   <section id="contact" class="section">
     <h2>Contact Me</h2>
     <form id="contactForm">
-      <input type="text" id="name" placeholder="Your Name" required />
+      <input type="text" id="name" placeholder="Your Name" s.kushala/>
       <input type="email" id="email" placeholder="Your Email" required />
       <textarea id="message" placeholder="Your Message" required></textarea>
       <button type="submit" class="btn">Send Message</button>
