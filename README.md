@@ -29,7 +29,7 @@
 
   <!-- ===== HOME ===== -->
   <section id="home" class="section home">
-    <h1>Hello, I'm <span>Your Name</span></h1>
+    <h1>Hello, I'm <span>S.KUSHALA</span></h1>
     <h3>Full Stack Web Developer Intern</h3>
     <p>I build responsive and user-friendly web applications.</p>
     <div class="btn-group">
@@ -100,7 +100,7 @@
 
   <!-- ===== FOOTER ===== -->
   <footer>
-    <p>© 2026 Your Name | Full Stack Web Developer</p>
+    <p>© 2026 S.KUSHALA | Full Stack Web Developer</p>
   </footer>
 
   <script src="js/script.js"></script>
